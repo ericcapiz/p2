@@ -13,8 +13,8 @@ const Skills = () => {
           <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <Image
-                  src="/../public/assets/skills/html.png"
+                <img
+                  src="/../assets/skills/html.png"
                   alt="html-logo"
                   width="64px"
                   height="64px"
@@ -28,8 +28,8 @@ const Skills = () => {
           <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <Image
-                  src="/../public/assets/skills/css.png"
+                <img
+                  src="/../assets/skills/css.png"
                   alt="css-logo"
                   width="64px"
                   height="64px"
@@ -43,8 +43,8 @@ const Skills = () => {
           <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <Image
-                  src="/../public/assets/skills/javascript.png"
+                <img
+                  src="/../assets/skills/javascript.png"
                   alt="javascript-logo"
                   width="64px"
                   height="64px"
@@ -58,8 +58,8 @@ const Skills = () => {
           <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <Image
-                  src="/../public/assets/skills/react.png"
+                <img
+                  src="/../assets/skills/react.png"
                   alt="react-logo"
                   width="64px"
                   height="64px"
@@ -73,8 +73,8 @@ const Skills = () => {
           <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <Image
-                  src="/../public/assets/skills/tailwind.png"
+                <img
+                  src="/../assets/skills/tailwind.png"
                   alt="tailwind-logo"
                   width="64px"
                   height="64px"
@@ -88,8 +88,8 @@ const Skills = () => {
           <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <Image
-                  src="/../public/assets/skills/node.png"
+                <img
+                  src="/../assets/skills/node.png"
                   alt="node-logo"
                   width="64px"
                   height="64px"
@@ -103,8 +103,8 @@ const Skills = () => {
           <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <Image
-                  src="/../public/assets/skills/mongo.png"
+                <img
+                  src="/../assets/skills/mongo.png"
                   alt="mongo-logo"
                   width="64px"
                   height="64px"
@@ -118,8 +118,8 @@ const Skills = () => {
           <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <Image
-                  src="/../public/assets/skills/github.png"
+                <img
+                  src="/../assets/skills/github.png"
                   alt="github-logo"
                   width="64px"
                   height="64px"

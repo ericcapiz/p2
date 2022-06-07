@@ -135,7 +135,7 @@ const Nav = () => {
             </div>
             <div className="border-b border-gray-300 my-4">
               <p className="w-[85%] md:w-[90%] py-4">
-                It's Not Just What You Build, It's How You Do It.
+                It&apos;s Not Just What You Build, It&apos;s How You Do It.
               </p>
             </div>
           </div>

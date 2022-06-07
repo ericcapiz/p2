@@ -18,11 +18,11 @@ const About = () => {
             code & every component created, that dream has come true.
           </p>
           <p className="py-2 text-gray-600">
-            It's the pixel perfect, experience I take pride on to ensure users
-            are getting the most out of their experience. With HTML, CSS, to
-            React and Javascript, and sprinkle in some Node.js, MongoDB, I have
-            a wide range of skills to build anything. As i like to say, it's not
-            what you build, but how you build it!
+            It&apos;s the pixel perfect, experience I take pride on to ensure
+            users are getting the most out of their experience. With HTML, CSS,
+            to React and Javascript, and sprinkle in some Node.js, MongoDB, I
+            have a wide range of skills to build anything. As i like to say,
+            it&apos;s not what you build, but how you build it!
           </p>
           <Link href="/#projects">
             <p className="py-2 text-gray-600 underline cursor-pointer">

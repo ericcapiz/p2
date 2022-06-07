@@ -152,7 +152,9 @@ const Nav = () => {
                 </li>
               </Link>
               <Link href="/#skills">
-                <li className="py-4 text-sm">Skills</li>
+                <li onClick={handleNav} className="py-4 text-sm">
+                  Skills
+                </li>
               </Link>
               <Link href="/#projects">
                 <li onClick={handleNav} className="py-4 text-sm">

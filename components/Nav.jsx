@@ -167,7 +167,7 @@ const Nav = () => {
                 </li>
               </Link>
             </ul>
-            <div className="pt-40">
+            <div className="pt-20">
               <p className="uppercase tracking-widest text-[#5651e5]">
                 Lets Connect
               </p>

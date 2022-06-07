@@ -1,11 +1,11 @@
 import React from "react";
-import cryptoImg from "../public/assets/projects/c.png";
-import lost from "../public/assets/projects/lost.png";
-import food from "../public/assets/projects/food.png";
-import zeta from "../public/assets/projects/zeta1.png";
-import psi from "../public/assets/projects/psi.png";
-import covid from "../public/assets/projects/covid.png";
-import cake from "../public/assets/projects/cake.png";
+import cryptoImg from "/public/assets/projects/c.png";
+import lost from "/public/assets/projects/lost.png";
+import food from "/public/assets/projects/food.png";
+import zeta from "/public/assets/projects/zeta1.png";
+import psi from "/public/assets/projects/psi.png";
+import covid from "/public/assets/projects/covid.png";
+import cake from "/public/assets/projects/cake.png";
 import ProjectItem from "./ProjectItem";
 
 const Projects = () => {

@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import zetaImg from "../public/assets/projects/zeta1.PNG";
+import zetaImg from "../public/assets/projects/zeta1.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 

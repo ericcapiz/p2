@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import lostImg from "../public/assets/projects/lost.PNG";
+import lostImg from "../public/assets/projects/lost.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 

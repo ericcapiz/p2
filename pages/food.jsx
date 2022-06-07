@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import foodImg from "../public/assets/projects/food.PNG";
+import foodImg from "../public/assets/projects/food.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 

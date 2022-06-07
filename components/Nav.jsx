@@ -59,7 +59,7 @@ const Nav = () => {
       <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
         <Link href="/">
           <img
-            src="/logo.svg"
+            src="../assets/logo.svg"
             className="cursor-pointer mt-4"
             alt="logo"
             width="110px"
@@ -120,7 +120,7 @@ const Nav = () => {
                 <img
                   onClick={handleNav}
                   className="cursor-pointer"
-                  src="/logo.svg"
+                  src="../assets/logo.svg"
                   alt="logo"
                   width="90"
                   height="60"

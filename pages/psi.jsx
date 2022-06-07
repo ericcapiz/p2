@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import psiImg from "../public/assets/projects/psi.png";
+import psiImg from "../public/assets/projects/psiImage.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 

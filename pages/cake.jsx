@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import cakeImg from "../public/assets/projects/cake.png";
+import cakeImg from "../public/assets/projects/cakeImage.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 

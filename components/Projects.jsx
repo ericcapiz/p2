@@ -5,7 +5,7 @@ import foodImage from "../public/assets/projects/foodImage.png";
 import zetaImage from "../public/assets/projects/zeta1Image.png";
 import psiImage from "../public/assets/projects/psiImage.png";
 import covidImage from "../public/assets/projects/covidImage.png";
-import cakeImage from "../public/assets/projects/cake.png";
+import cakeImage from "../public/assets/projects/cakeImage.png";
 import ProjectItem from "./ProjectItem";
 
 const Projects = () => {

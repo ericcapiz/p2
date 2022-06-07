@@ -30,10 +30,18 @@ const psi = () => {
             cart users can increase/decrease quantity of items in the cart.
             Users can also remove the item or even empty the cart altogether.
           </p>
-          <a href="https://psi-shop.netlify.app/" target="_blank">
+          <a
+            href="https://psi-shop.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4 mr-8">Demo</button>
           </a>
-          <a href="https://github.com/ericcapiz/psi-shop" target="_blank">
+          <a
+            href="https://github.com/ericcapiz/psi-shop"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4">Code</button>
           </a>
         </div>

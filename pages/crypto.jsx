@@ -32,10 +32,18 @@ const crypto = () => {
             will be able to click the star symbol to save the crypto currency as
             a favorite to view within their account.
           </p>
-          <a href="https://crypto-info2.netlify.app/" target="_blank">
+          <a
+            href="https://crypto-info2.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4 mr-8">Demo</button>
           </a>
-          <a href="https://github.com/ericcapiz/crypto-info" target="_blank">
+          <a
+            href="https://github.com/ericcapiz/crypto-info"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4">Code</button>
           </a>
         </div>

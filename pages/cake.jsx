@@ -30,10 +30,18 @@ const cake = () => {
             have a FB channel with over 350 followers and I offered my services
             to help market the business by creating their site.
           </p>
-          <a href="https://nandos-cakes2.vercel.app/" target="_blank">
+          <a
+            href="https://nandos-cakes2.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4 mr-8">Demo</button>
           </a>
-          <a href="https://github.com/ericcapiz/nandos-cakes2" target="_blank">
+          <a
+            href="https://github.com/ericcapiz/nandos-cakes2"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4">Code</button>
           </a>
         </div>

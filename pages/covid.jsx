@@ -30,10 +30,18 @@ const covid = () => {
             the different numbers worldwide and by country. The numbers update
             as the api updates.
           </p>
-          <a href="https://covid-vert-zeta.vercel.app/" target="_blank">
+          <a
+            href="https://covid-vert-zeta.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4 mr-8">Demo</button>
           </a>
-          <a href="https://github.com/ericcapiz/covid" target="_blank">
+          <a
+            href="https://github.com/ericcapiz/covid"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4">Code</button>
           </a>
         </div>

@@ -59,12 +59,17 @@ const Contact = () => {
                   <a
                     href="https://www.linkedin.com/in/eric-capiz/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-500">
                       <FaLinkedinIn />
                     </div>
                   </a>
-                  <a href="https://github.com/ericcapiz" target="_blank">
+                  <a
+                    href="https://github.com/ericcapiz"
+                    rel="noreferrer"
+                    target="_blank"
+                  >
                     <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-500">
                       <FaGithub />
                     </div>

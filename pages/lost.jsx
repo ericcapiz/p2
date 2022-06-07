@@ -32,10 +32,18 @@ const lost = () => {
             their own posts. Users can display posts by category as well as by
             user if user has multiple posts.
           </p>
-          <a href="https://lost-my-stuff.vercel.app/" target="_blank">
+          <a
+            href="https://lost-my-stuff.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4 mr-8">Demo</button>
           </a>
-          <a href="https://github.com/ericcapiz/lost-found" target="_blank">
+          <a
+            href="https://github.com/ericcapiz/lost-found"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4">Code</button>
           </a>
         </div>

@@ -29,10 +29,18 @@ const food = () => {
             This app will allow users to search for ingredients and view
             different recipe cards for additional recipe info.
           </p>
-          <a href="https://food-4-thought.vercel.app/" target="_blank">
+          <a
+            href="https://food-4-thought.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4 mr-8">Demo</button>
           </a>
-          <a href="https://github.com/ericcapiz/food-4-thought" target="_blank">
+          <a
+            href="https://github.com/ericcapiz/food-4-thought"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4">Code</button>
           </a>
         </div>

@@ -1,11 +1,11 @@
 import React from "react";
 import cryptoImg from "../public/assets/projects/c.png";
-import lost from "../public/assets/projects/lost.png";
-import food from "../public/assets/projects/food.png";
-import zeta from "../public/assets/projects/zeta1.png";
-import psi from "../public/assets/projects/psi.png";
-import covid from "../public/assets/projects/covid.png";
-import cake from "../public/assets/projects/cake.png";
+import lostImage from "../public/assets/projects/lost.png";
+import foodImage from "../public/assets/projects/food.png";
+import zetaImage from "../public/assets/projects/zeta1.png";
+import psiImage from "../public/assets/projects/psi.png";
+import covidImage from "../public/assets/projects/covid.png";
+import cakeImage from "../public/assets/projects/cake.png";
 import ProjectItem from "./ProjectItem";
 
 const Projects = () => {
@@ -25,37 +25,37 @@ const Projects = () => {
           />
           <ProjectItem
             title="Lost My Stuff"
-            backgroundImg={lost}
+            backgroundImg={lostImage}
             projectUrl="/lost"
             tech="Mongo, Express, React, Node"
           />
           <ProjectItem
             title="Food 4 Thought"
-            backgroundImg={food}
+            backgroundImg={foodImage}
             projectUrl="/food"
             tech="React"
           />
           <ProjectItem
             title="Zeta Films"
-            backgroundImg={zeta}
+            backgroundImg={zetaImage}
             projectUrl="/zeta"
             tech="React"
           />
           <ProjectItem
             title="Psi Shop"
             tech="React, Commerce.js, Stripe"
-            backgroundImg={psi}
+            backgroundImg={psiImage}
             projectUrl="/psi"
           />
           <ProjectItem
             title="Covid Tracker"
-            backgroundImg={covid}
+            backgroundImg={covidImage}
             projectUrl="/covid"
             tech="React, Chart.js Leaflet"
           />
           <ProjectItem
             title="Nando's Cakes"
-            backgroundImg={cake}
+            backgroundImg={cakeImage}
             projectUrl="/cake"
             tech="React, Email.js Framer-Motion"
           />

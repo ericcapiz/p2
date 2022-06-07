@@ -1,10 +1,10 @@
 import React from "react";
 import cryptoImg from "../public/assets/projects/c.png";
-import lostImage from "../public/assets/projects/lost.png";
-import foodImage from "../public/assets/projects/food.png";
-import zetaImage from "../public/assets/projects/zeta1.png";
-import psiImage from "../public/assets/projects/psi.png";
-import covidImage from "../public/assets/projects/covid.png";
+import lostImage from "../public/assets/projects/lostImage.png";
+import foodImage from "../public/assets/projects/foodImage.png";
+import zetaImage from "../public/assets/projects/zeta1Image.png";
+import psiImage from "../public/assets/projects/psiImage.png";
+import covidImage from "../public/assets/projects/covidImage.png";
 import cakeImage from "../public/assets/projects/cake.png";
 import ProjectItem from "./ProjectItem";
 

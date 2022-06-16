@@ -12,22 +12,23 @@ const About = () => {
           <h2 className="py-4">Who I Am</h2>
           <p className="py-2 text-gray-600">
             Becoming a web developer has always been my top choice regarding a
-            career path. Being able to create web applications and watch it come
-            to life is an incredible feeling. After Spending time in
-            retail/sales as well as being in the military, I decided to persue
-            that dream. Now with every line of code & every component created,
-            that dream comes true!
+            career path. Creating web applications and watching them come to
+            life is an incredible feeling. After spending time in retail/sales
+            as well as being in the military, I decided to persue that dream.
+            Now with every line of code & every component created, that dream
+            comes true!
           </p>
           <p className="py-2 text-gray-600">
             It&apos;s the pixel perfect, experience I take pride in to ensure
             users are getting the most out of their experience. Between HTML,
-            CSS, to React and Javascript, and sprinkle in some Node.js, MongoDB,
-            I have a wide range of skills and abilities to build anything. As I
-            like to say, it&apos;s not what you build, but how you build it!
+            CSS, to React and JavaScript, while sprinkling in some Node.js,
+            Express.js and MongoDB, I have a wide range of skills and abilities
+            to build anything. As I like to say, it&apos;s not what you build,
+            but how you build it!
           </p>
           <Link href="/#projects">
             <p className="py-2 text-gray-600 underline cursor-pointer">
-              View Latest Projects!
+              View My Latest Projects!
             </p>
           </Link>
         </div>
